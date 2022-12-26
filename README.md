@@ -61,7 +61,7 @@ The series of experiments were conducted on a flat roof of the Zoology and Ento-
 
 ### Infrared pictures
 
-All infrared pictures are accessible in a file for each experimental date (YYMMDD) and each species (species code), and further organizes in a 'RAW PICTURES' file and a 'ANALYZED PICTURES' file.
+All infrared pictures are accessible on the principal investigator's Google Drive in a shared file ['Infrared pictures_ms'](https://drive.google.com/drive/folders/1wlwSzkzjK6pZAMsyBZ2CU33W2E6_r_gg?usp=sharing) and sorted out in a file for each experimental date (YYMMDD) and each species (species code), and further organizes in a 'RAW PICTURES' file and a 'ANALYZED PICTURES' file.
 
 e.g. '220209_ACAGAR' for infrared pictures of _Acanthochitona garnoti_ on 9 February 2022
 
